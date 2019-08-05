@@ -54,3 +54,35 @@
 2019-07-30 23:12:45,645 - OOpsPOM -INFO - Login Credentials entered
 2019-07-30 23:12:45,693 - OOpsPOM -INFO - Getting Page Header
 2019-07-30 23:12:45,694 - OOpsPOM -INFO - Validated homwheader
+2019-08-03 22:16:12,469 - OOpsPOM -INFO - ********Starting Project***************
+2019-08-03 22:16:12,483 - OOpsPOM -INFO - Getting Page title
+2019-08-03 22:16:12,485 - OOpsPOM -INFO - Validated Page title
+2019-08-03 22:16:12,519 - OOpsPOM -INFO - Getting LoginPage Header
+2019-08-03 22:16:12,519 - OOpsPOM -INFO - PageHeader validated
+2019-08-03 22:16:14,041 - OOpsPOM -INFO - ********Starting Project***************
+2019-08-03 22:16:14,045 - OOpsPOM -INFO - Getting Page title
+2019-08-03 22:16:14,046 - OOpsPOM -INFO - Validated Page title
+2019-08-03 22:16:14,075 - OOpsPOM -INFO - Getting LoginPage Header
+2019-08-03 22:16:14,076 - OOpsPOM -INFO - PageHeader validated
+2019-08-03 22:16:17,920 - OOpsPOM -INFO - Login Credentials entered
+2019-08-03 22:16:18,081 - OOpsPOM -INFO - Getting Page Header
+2019-08-03 22:16:18,081 - OOpsPOM -INFO - Validated homwheader
+2019-08-03 22:16:19,613 - OOpsPOM -INFO - Login Credentials entered
+2019-08-03 22:16:19,630 - OOpsPOM -INFO - Getting Page Header
+2019-08-03 22:16:19,630 - OOpsPOM -INFO - Validated homwheader
+2019-08-03 23:24:27,161 - OOpsPOM -INFO - ********Starting Project***************
+2019-08-03 23:24:27,174 - OOpsPOM -INFO - Getting Page title
+2019-08-03 23:24:27,176 - OOpsPOM -INFO - Validated Page title
+2019-08-03 23:24:27,213 - OOpsPOM -INFO - Getting LoginPage Header
+2019-08-03 23:24:27,213 - OOpsPOM -INFO - PageHeader validated
+2019-08-03 23:24:28,737 - OOpsPOM -INFO - ********Starting Project***************
+2019-08-03 23:24:28,740 - OOpsPOM -INFO - Getting Page title
+2019-08-03 23:24:28,741 - OOpsPOM -INFO - Validated Page title
+2019-08-03 23:24:28,767 - OOpsPOM -INFO - Getting LoginPage Header
+2019-08-03 23:24:28,767 - OOpsPOM -INFO - PageHeader validated
+2019-08-03 23:24:32,626 - OOpsPOM -INFO - Login Credentials entered
+2019-08-03 23:24:32,767 - OOpsPOM -INFO - Getting Page Header
+2019-08-03 23:24:32,767 - OOpsPOM -INFO - Validated homwheader
+2019-08-03 23:24:34,309 - OOpsPOM -INFO - Login Credentials entered
+2019-08-03 23:24:34,341 - OOpsPOM -INFO - Getting Page Header
+2019-08-03 23:24:34,341 - OOpsPOM -INFO - Validated homwheader
